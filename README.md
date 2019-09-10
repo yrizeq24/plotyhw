@@ -1,3 +1,6 @@
-# Belly Button Biodiversity
+# Yazans Belly Button Biodiversity
 
-I used Plotly to create charts exploring a database saved as a sqlite file. Website served using Flask and is deployed on Heroku. https://avangemert-biodiversity.herokuapp.com  
+I first used Plotly to create charts from a sql lit database..
+
+
+Next I used flask to deploy the charts and data on Heroku. See link  https://avangemert-biodiversity.herokuapp.com  
